@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="pgm"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Thiago Lo/pessoal/workspace_L6/FTEC_SDTI/bcprov-jdk15on-149.jar"/>
+	<classpathentry kind="output" path="link"/>
+</classpath>
